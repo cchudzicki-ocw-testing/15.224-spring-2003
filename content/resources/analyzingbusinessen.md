@@ -5,6 +5,7 @@ description: This note on Analyzing Business Environments provides a framework f
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/15-224-global-markets-national-politics-and-the-competitive-advantage-of-firms-spring-2003/2e8d778caea77a2d17510961164806d6_analyzingbusinessen.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
 resourcetype: Document

@@ -4,6 +4,7 @@ description: Michael Porter's Diamond diagram.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/15-224-global-markets-national-politics-and-the-competitive-advantage-of-firms-spring-2003/07ce73b80dab7625c7106e17e0f9a0d0_portersdiamond.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
 resourcetype: Document
