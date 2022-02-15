@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: Gerber Case
-type: OCWFile
 uid: 6250d1c6-800e-1e0f-71df-6820c21e78c0
 ---

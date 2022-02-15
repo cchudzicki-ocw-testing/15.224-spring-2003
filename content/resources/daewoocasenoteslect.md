@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 4: Daewoo Case Notes'
-type: OCWFile
 uid: 24bd78e5-0c0f-478e-5d79-e5790465adb3
 ---

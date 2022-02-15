@@ -9,6 +9,5 @@ parent_title: Study Materials
 parent_type: CourseSection
 resourcetype: Document
 title: 'Note on Analyzing Business Environments '
-type: OCWFile
 uid: 2e8d778c-aea7-7a2d-1751-0961164806d6
 ---

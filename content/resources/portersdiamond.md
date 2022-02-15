@@ -8,6 +8,5 @@ parent_title: Study Materials
 parent_type: CourseSection
 resourcetype: Document
 title: The Complete System
-type: OCWFile
 uid: 07ce73b8-0dab-7625-c710-6e17e0f9a0d0
 ---
