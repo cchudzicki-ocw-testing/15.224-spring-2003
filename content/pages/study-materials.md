@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This note on analyzing business environments provides a framework for
+  students as they analyze different business environments around the world.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials
